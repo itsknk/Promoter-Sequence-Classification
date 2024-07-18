@@ -82,4 +82,6 @@ An example prediction was demonstrated using a new DNA sequence, showcasing the 
     ```bash
     jupyter notebook classify.ipynb
     ```
+### License
 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/itsknk/Promoter-Sequence-Classification/blob/master/LICENSE) file for details.
